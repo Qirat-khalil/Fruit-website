@@ -1,0 +1,32 @@
+/* .navbar-sec{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 75px;
+    /* align-items: center; */
+/* } */
+
+
+
+
+.navbar-butt button{
+     padding: 10px 25px;
+     border-radius: 20px;
+}
+
+/* .back-sec{
+    background-image : url("images/hero-bg.jpg");
+} */
+
+.navbar-butt1 button{
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+
+
+@media (max-width:990) {
+    .navbar-butt button{
+        display: none;
+    }
+}
